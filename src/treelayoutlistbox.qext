@@ -1,0 +1,9 @@
+{
+	"name" : "Tree Layout Listbox",
+	"description" : "Sample listbox for D3 Tree Layout Extension",
+	"icon" : "list",
+	"type" : "visualization",
+	"version": "0.1",
+	"preview" : "bar",
+	"author": "Masaki Hamano"
+}
